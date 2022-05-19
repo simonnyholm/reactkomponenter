@@ -3,9 +3,9 @@
     {
       "section": "Travel",
       "title": "Fiskeri på Lolland",
-      "body": "Det er skønt at være lystfisker på Lolland-Falster. Vi har nemlig et meget varieret og godt fiskeri, hvor alle kan være med både den seriøse lystfisker der fisker året rundt, og familien der sammen vil opleve vores flotte natur, og have en fisk med hjem til aftensmaden. Vi har det hele!!",
+      "body": "Det er skønt at være lystfisker på Lolland-Falster. Vi har nemlig et meget varieret og godt fiskeri, hvor alle kan være med både den seriøse lystfisker, der fisker året rundt.",
       "author": "Carl Ludvigsen",
-      "image": "img/travel-1.webp",
+      "image": "../img/travel-1.webp",
       "id": "a1"
     }
   ],
@@ -13,7 +13,7 @@
     {
       "section": "Leisure",
       "title": "Surfing i Thy",
-      "body": "Det er skønt at være surferdude m/k i Thy. Vi har nemlig et meget varieret og godt fiskeri, hvor alle kan være med både den seriøse lystfisker der fisker året rundt, og familien der sammen vil opleve vores flotte natur, og have en fisk med hjem til aftensmaden. Vi har det hele!!",
+      "body": "Det er skønt at være surferdude m/k i Thy. Vi har nemlig et meget varieret og godt fiskeri, hvor alle kan være med både den seriøse lystfisker der fisker året rundt.",
       "author": "Michael Bang",
       "images": [
         "img/leisure-1.jpg",

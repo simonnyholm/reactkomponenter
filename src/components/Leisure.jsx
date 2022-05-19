@@ -1,10 +1,10 @@
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
 
-import TravelCard from "./TravelCard";
+import LeisureCard from "./LeisureCard";
 import useFetch from "../useFetch";
 
-const Travel = () => {
+const Leisure = () => {
   const styles = {
     sectionElement: css`
       background-color: #ffffff;
@@ -14,20 +14,21 @@ const Travel = () => {
   };
 
   const {
-    data: travel,
+    data: leisure,
     isPending,
     error,
-  } = useFetch("http://localhost:7000/travel");
+  } = useFetch("http://localhost:7000/leisure");
 
-  console.log(travel);
+  console.log(leisure);
 
   return (
-    <section className="travel" css={styles.sectionElement}>
+    <section className="leisure" css={styles.sectionElement}>
       {isPending && <div>Indholdet indlæses...</div>}
-      {travel && travel.map((card)=> <TravelCard travel={card} section="Travel" />)}
+      {leisure &&
+        leisure.map((card) => <LeisureCard leisure={card} section="Leisure" />)}
       {error && <div>{error}</div>}
     </section>
   );
 };
 
-export default Travel;
+export default Leisure;
