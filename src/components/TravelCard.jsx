@@ -19,7 +19,7 @@ const TravelCard = ({ travel, section }) => {
       {travel.map((element) => (
         <div className="blog-preview" key={element.id}>
           <h1 css={styles.cardHeader}>{element.title}</h1>
-          <p css={styles.cardBoby}>{element.body}</p>
+          <p css={styles.cardBody}>{element.body}</p>
         </div>
       ))}
     </div>
