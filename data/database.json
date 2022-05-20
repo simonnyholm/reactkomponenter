@@ -3,7 +3,7 @@
     {
       "section": "Travel",
       "title": "Fiskeri på Lolland",
-      "body": "Det er skønt at være lystfisker på Lolland-Falster. Vi har nemlig et meget varieret og godt fiskeri, hvor alle kan være med både den seriøse lystfisker, der fisker året rundt.",
+      "body": "Det er skønt at være lystfisker på Lolland-Falster. Vi har nemlig et meget varieret og godt fiskeri, hvor alle kan være med - også den seriøse lystfisker, der fisker året rundt.",
       "author": "Carl Ludvigsen",
       "image": "../img/travel-1.webp",
       "id": "a1"
@@ -13,7 +13,7 @@
     {
       "section": "Leisure",
       "title": "Surfing i Thy",
-      "body": "Det er skønt at være surferdude m/k i Thy. Vi har nemlig et meget varieret og godt fiskeri, hvor alle kan være med både den seriøse lystfisker der fisker året rundt.",
+      "body": "Det er skønt at være surferdude m/k i Thy. Vi har nemlig et meget varieret og godt surfmiljø, hvor alle kan være med - også den seriøse surfer der er i vandet året rundt.",
       "author": "Michael Bang",
       "images": [
         "img/leisure-1.jpg",
@@ -26,7 +26,36 @@
   ],
   "services": [
     {
-      "section": ""
+      "section": "services",
+      "title": "Levering til tiden",
+      "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
+      "image": "",
+      "background": "#4EC9B0",
+      "id": "c1"
+    },
+    {
+      "section": "services",
+      "title": "Leverencetyper",
+      "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
+      "image": "",
+      "background": "#F8C553",
+      "id": "c2"
+    },
+    {
+      "section": "services",
+      "title": "Kvalitetstjek",
+      "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
+      "image": "",
+      "background": "#9CDCF1",
+      "id": "c3"
+    },
+    {
+      "section": "services",
+      "title": "Kundeservice",
+      "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
+      "image": "",
+      "background": "#C57B96",
+      "id": "c4"
     }
   ]
 }
