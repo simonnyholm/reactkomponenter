@@ -25,7 +25,9 @@ const Leisure = () => {
     <section className="leisure" css={styles.sectionElement}>
       {isPending && <div>Indholdet indlæses...</div>}
       {leisure &&
-        leisure.map((card) => <LeisureCard leisure={card} section="Leisure" />)}
+        leisure.map((card) => (
+          <LeisureCard leisure={card} section="Leisure" key={card.id} />
+        ))}
       {error && <div>{error}</div>}
     </section>
   );

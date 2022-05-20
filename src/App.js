@@ -2,7 +2,7 @@
 import { css } from "@emotion/react";
 import Leisure from "./components/Leisure.jsx";
 import Travel from "./components/Travel.jsx";
-
+import Services from "./components/Services.js";
 
 function App() {
   const styles = {
@@ -23,7 +23,9 @@ function App() {
         <div css={styles.travelLeisure}>
           <Travel />
           <Leisure />
+          
         </div>
+        <Services />
       </div>
     </div>
   );

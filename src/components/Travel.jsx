@@ -24,7 +24,10 @@ const Travel = () => {
   return (
     <section className="travel" css={styles.sectionElement}>
       {isPending && <div>Indholdet indlæses...</div>}
-      {travel && travel.map((card)=> <TravelCard travel={card} section="Travel" />)}
+      {travel &&
+        travel.map((card) => (
+          <TravelCard travel={card} section="Travel" key={card.id} />
+        ))}
       {error && <div>{error}</div>}
     </section>
   );
