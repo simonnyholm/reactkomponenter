@@ -29,7 +29,7 @@
       "section": "services",
       "title": "Levering til tiden",
       "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
-      "image": "",
+      "image": "MdOutlineDeliveryDining",
       "background": "#4EC9B0",
       "id": "c1"
     },
@@ -37,7 +37,7 @@
       "section": "services",
       "title": "Leverencetyper",
       "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
-      "image": "",
+      "image": "FiArchive",
       "background": "#F8C553",
       "id": "c2"
     },
@@ -45,7 +45,7 @@
       "section": "services",
       "title": "Kvalitetstjek",
       "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
-      "image": "",
+      "image": "BsJournalCheck",
       "background": "#9CDCF1",
       "id": "c3"
     },
@@ -53,7 +53,7 @@
       "section": "services",
       "title": "Kundeservice",
       "body": "Når du bestiller en oplevelse hos os, er du altid sikret et højt niveau og transparens i alle led af vores services",
-      "image": "",
+      "image": "MdPhone",
       "background": "#C57B96",
       "id": "c4"
     }
